@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+body{
+	height: 100vh;
+	background: #17a2b8;
+}
+nav{
+	position: absolute;
+	top: 30%;
+	right: 10%;
+}
+
+nav .nav-content{
+
+}
+.nav-content .toggle-btn{
+
+}
+
+.nav-content  span a{
+	height: 300px;
+	width: 300px;
+	background: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 50%;
+	text-decoration-line: none;
+	font-weight: box;
+	font-size: 44px;
+
+}
+
+
+.nav-content .toggle-btn span{
+	
+
+}
+.nav-content .toggle-btn span a{
+	
+}
